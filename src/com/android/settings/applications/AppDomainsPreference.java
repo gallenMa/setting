@@ -15,7 +15,7 @@
  */
 
 package com.android.settings.applications;
-
+package com.android.settings.applications;
 import android.content.Context;
 import android.util.AttributeSet;
 import android.view.View;
