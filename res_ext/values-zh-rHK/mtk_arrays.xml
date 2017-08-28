@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"使用網絡提供的時間"</item>
+    <item>使用全球衛星定位系統顯示時間</item>
+    <item>"關閉"</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(未指定)"</item>
+    <item>SIM 插槽 1</item>
+    <item>SIM 插槽 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p 全高清 (影片用)</item>
+    <item>720p 高清 (遊戲用)</item>
+  </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"Käytä verkon määrittämää aikaa"</item>
+    <item>Käytä GPS:n tarjoamaa aikaa</item>
+    <item>"himmein"</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(ei määritetty)"</item>
+    <item>Sim-korttipaikka 1</item>
+    <item>Sim-korttipaikka 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (videoille)</item>
+    <item>720p HD (peleille)</item>
+  </string-array>
+</resources>

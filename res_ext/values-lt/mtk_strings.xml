@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <!-- MTK Wi-Fi settings start -->
+  <string name="wifi_security_wapi_certificate">WAPI sertifikatas</string>
+  <string name="wapi_user_certificate">"Certificato utente"</string>
+  <string name="wapi_as_certificate">"Certificato ASE"</string>
+  <string name="wifi_hex_password">Šešioliktainis slaptažodis.</string>
+  <string name="wifi_no_cert_for_wapi">Nepavyko rasti šio prijungimo AP sertifikato</string>
+  <string name="sim_slot">SIM kortelės lizdas</string>
+  <string name="wifi_advanced_ipv4_address_title">IPv4 adresas</string>
+  <string name="wifi_advanced_ipv6_address_title">IPv6 adresas</string>
+  <!-- MTK Wi-Fi settings end -->
+
+  <!-- MTK WFD start -->
+   <string name="wfd_change_resolution_menu_title">Keisti vaizdo raišką</string>
+  <string name="wfd_sink_summary">Gali aptikti kiti</string>
+  <string name="wfd_device_category">PRIETAISŲ SĄRAŠAS</string>
+  <string name="wfd_sink_toast_enjoy">Žiūrėkite ekrano vaizdą per kito prietaiso ekraną</string>
+  <string name="wfd_sink_toast_disconnect">Susietasis ekranas atjungtas</string>
+  <string name="wfd_sink_disconnecting">Atjungiama...</string>
+  <string name="wfd_sink_guide_btn">Gauti tai</string>
+  <string name="wfd_sink_guide_title">Kaip uždaryti?</string>
+  <string name="wfd_sink_guide_content">Palaikykite nuspaudę ekraną <xliff:g id="seconds">%s</xliff:g> sekundžių, kad būtų atjungtas rodymas per kitą prietaisą.</string>
+  <!-- MTK WFD end -->
+
+  <!-- MTK Wireless settings start -->
+   <string name="tethered_ipv6_title">Saitavietės ir pririšimo nuostatos</string>
+  <string name="tethered_ipv4v6">(yra IPv6)</string>
+  <string name="tethered_ipv6">(yra tik IPv6)</string>
+  <string name="tethered_ipv4">(nėra IPv6)</string>
+  <string name="tethering_apn_settings_title">APN nuostatos</string>
+  <string name="tethering_apn_settings_summary">Konfigūruoti APN pririšimui</string>
+  <string name="usb_tether_type_title">USB pririšimo tipas</string>
+  <string name="usb_tethering_select_version">Pasirinkti kompiuterio sistemos versiją</string>
+  <string name="lockdown_vpn_already_connected">Visada įjungtas VPN jau įjungtas, kad galima būtų prisijungti.</string>
+  <!-- MTK Wireless settings end -->
+
+  <!-- Sound enhancement Settings start -->
+  <string name="sound_enhancement_title">Garso gerinimas</string>
+  <string name="music_plus_summary">Ausinių garso gerinimo priemonė</string>
+  <string name="audio_profile_bes_surround_title">BesSurround</string>
+  <string name="audio_profile_bes_surround_summary">Erdvinis garsas</string>
+  <string name="audio_profile_bes_surround_mode_movie">Filmų režimas</string>
+  <string name="audio_profile_bes_surround_mode_music">Muzikos režimas</string>
+  <string name="audio_profile_bes_loudness_summary">Kiekis stiprintuvas garsiakalbis</string>
+  <!-- Sound enhancement Settings end -->
+
+  <!-- MTK NFC settings start -->
+   <string name="nfc_p2p_mode">P2P režimas</string>
+  <string name="nfc_p2p_mode_summary">Išsiųstų arba gautų progr. turinys</string>
+  <string name="nfc_tag_mode_category">Žymų režimas</string>
+  <string name="nfc_rw_tag_title">Žymų skaitymas ir rašymas</string>
+  <string name="nfc_rw_tag_summary">Skaityti iš žymos arba rašyti į žymą</string>
+  <string name="nfc_card_emulation_category_title">kortelės emuliacijos režimas</string>
+  <string name="nfc_card_emulation">Kortelės emuliacija</string>
+  <string name="card_emulation_settings_category_title">esamas apsaugos elementas</string>
+  <string name="card_emulation_settings_no_element_found">Nėra apsaugos elemento.</string>
+  <string name="card_emulation_settings_off_text">Norėdami matyti esamus apsaugos elementus, įjunkite kortelės emuliaciją.</string>
+  <string name="card_emulation_turning_off_text">Išjungiama kortelės emuliacija...</string>
+  <string name="card_emulation_turning_on_text">Įjungiama kortelės emuliacija...</string>
+  <string name="card_emulation_switch_error_title">"Klaida"</string>
+  <string name="card_emulation_switch_error_message">Nepavyko perjungti į <xliff:g id="card_mode">%1$s</xliff:g>.</string>
+  <string name="card_emulation_sim_not_supported_message"><xliff:g id="sim_description">%1$s</xliff:g> nepalaiko NFC kortelės emuliacijos funkcijos.</string>
+  <string name="card_emulation_two_sim_not_supported_message">SIM1,SIM2 do not support NFC Card emulation function.</string>
+  <string name="nfc_hce_pay_summary">Prietaiso naudojimas funkcijai spustelėti ir mokėti norint naudoti vietoj Google piniginės, kreditinės kortelės ir kt.</string>
+  <!-- MTK NFC settings end -->
+
+  <!-- MTK HDMI start -->
+   <string name="hdmi_settings">Impostazioni HDMI</string>
+  <string name="hdmi_settings_summary">Fare clic per configurare HDMI</string>
+  <string name="hdmi_video_resolution">Risoluzione video</string>
+  <string name="hdmi_auto">"automatinis"</string>
+  <string name="hdmi_scale_control">Vaizdo įrašo skalės nuostatos</string>
+  <string name="hdmi_scale_no_scale">Nėra keitimo pagal skalę</string>
+  <string name="hdmi_scale_scale_down">Mažinti pagal skalę <xliff:g id="scale_percent">%s</xliff:g>%%</string>
+  <string name="hdmi_audio_output">Garso signalų išvestis</string>
+  <string name="hdmi_audio_output_stereo">Stereo</string>
+  <string name="hdmi_audio_output_multi_channel">Daugiakanalis</string>
+  <!-- MTK HDMI end -->
+
+  <!-- MTK Data usage  start -->
+   <string name="datausage_overview_tab">Apžvalga</string>
+  <string name="datausage_overview_wifi_today">"Šiandien"</string>
+  <string name="datausage_overview_wifi_total">"Iš viso"</string>
+  <string name="datausage_overview_mobile_title">"Mobilusis"</string>
+  <string name="datausage_overview_mobile_usage"><xliff:g id="actual">%s</xliff:g> iš <xliff:g id="limit">%s</xliff:g></string>
+  <string name="datausage_overview_mobile_usage_warning">iš <xliff:g xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">%s</xliff:g> limito</string>
+  <string name="data_saving_title">Duomenų išsaugojimas</string>
+  <string name="default_data_switch_err_msg1">Negalima perjungti pageidaujamos SIM mobiliesiems duomenims skambučio metu.</string>
+  <!-- MTK Dta usage  end -->
+
+  <!-- MTK About phone start -->
+   <string name="status_imei_slot1">IMEI (alloggio 1)</string>
+  <string name="status_imei_slot2">IMEI (alloggio 2)</string>
+  <string name="custom_build_version">"Versione build personalizzata"</string>
+  <string name="mota_system_update_summary">"Patikrinkite, ar serveryje nėra sistemos naujinio"</string>
+  <string name="software_updates_more_title">Programinės įrangos naujiniai</string>
+  <string name="software_updates_more_summary">Patikrinkite, ar yra nauja programinės įrangos versija</string>
+  <!-- MTK About phone end -->
+
+  <!-- APN Settings start  -->
+   <string name="mvno_type_none">"Joks"</string>
+  <string name="apn_predefine_change_dialog_notice">Salvare? Le modifiche agli APN predefiniti potrebbero causare problemi di connessione!</string>
+  <string name="apn_port_warning">Jungties vertė turi būti 1-65535!</string>
+  <!-- APN Settings end -->
+
+  <!--MTK DRM settings start -->
+   <string name="drm_settings_title">"Ripristino DRM"</string>
+  <string name="drm_settings_summary">"Elimina tutte le licenze DRM"</string>
+  <string name="drm_reset_dialog_msg">"Questa operazione eliminerà tutte le licenze sul dispositivo. Continuare?"</string>
+  <string name="drm_reset_toast_msg">Licencijos sėkmingai ištrintos.</string>
+  <!--MTK DRM settings end -->
+
+  <!--MTK HotKnot start -->
+   <string name="hotknot_explained_description">Leisti apsikeisti duomenimis prilietus ekranu kitą prietaisą</string>
+  <string name="hotknot_charging_warning">Kraunant per USB, gali sutrikti funkcijos <xliff:g id="title">%s</xliff:g> veikimas.</string>
+  <!--MTK HotKnot end -->
+
+  <!-- ClearMotion start -->
+   <string name="clear_motion_summary">Vaizdo sklandumo gerinimo priemonė</string>
+  <string name="on_text">"įjungta"</string>
+  <string name="off_text">"išjungta"</string>
+  <!-- ClearMotion end -->
+
+  <!-- MiraVision start -->
+   <string name="mira_vision_summary">Geriausių vaizdo efektų tiekėjas</string>
+  <!-- MiraVision end -->
+
+  <!--MTK DateTime start-->
+   <string name="gps_time_sync_attention_gps_on">Prireiks daugiausiai 1 minutės GPS ryšiui nustatyti. Be to, GPS gali nepateikti laiko dėl silpno signalo.\n\nAr tikrai norite naudoti GPS pateiktą laiką?</string>
+  <string name="gps_time_sync_attention_gps_off">Norėdami naudoti GPS pateiktą laiką, pirmiausiai privalote įjungti GPS. Tuomet prireiks daugiausiai 1 minutės GPS ryšiui nustatyti. Be to, GPS gali nepateikti laiko dėl silpno signalo. \n\nAr tikrai norite įjungti GPS ir palaukti, kol bus pateiktas GPS laikas?</string>
+  <!--MTK DateTime end-->
+
+  <!-- MTK IPO settings start -->
+   <string name="ipo_title">Avvio rapido</string>
+  <string name="ipo_summary_off">Attiva avvio rapido</string>
+  <!-- MTK IPO settings end -->
+
+  <!-- Storage & USB settings start -->
+   <string name="select_memory">Numatytasis įrašymo diskas</string>
+  <string name="usb_use_built_in_cd_rom">Įrengtasis CD-ROM</string>
+  <string name="usb_bicr_summary">Rodomas virtualus CD-ROM, kuriame yra naudingos programinės įrangos.</string>
+  <string name="usb_use_mass_storage">USB atmintinė</string>
+  <string name="usb_ums_summary">"Rekomenduojama XP. Leidžia jums perkelti failus iš kompiuterio į Android prietaisą ir atvirkščiai."</string>
+  <!-- Storage & USB settings end -->
+
+  <!-- MTK Storage Settings start -->
+   <string name="launch_error">"Nepavyko paleisti programos!"</string>
+  <!-- MTK Storage Settings end -->
+
+  <!--MTK Security Settings start -->
+   <string name="security_not_set">Apsauga nenustatyta</string>
+  <!--MTK Security Settings end -->
+
+  <!-- Voice UI start -->
+   <string name="voice_ui_title">"Valdymas balsu"</string>
+  <!-- Voice UI end -->
+
+  <!-- MTK schedule power start -->
+   <string name="schedule_power_on_off_settings_title">Planinis įjungimas ir išjungimas</string>
+  <!-- MTK schedule power end -->
+
+  <!-- Background power saving start -->
+   <string name="bg_power_saving_title">Energijos taupymas veikiant parengties režimui</string>
+  <!-- Background power saving end -->
+
+    <string name="two_cdma_dialog_msg">1 lizdas ir 2 lizdas negali palaikyti CDMA vienu metu.</string>
+
+    <string name="wakeup_interaction">Pažadinimo sąsaja</string>
+    <string name="voice_wakeup">Atrakinimas balsu</string>
+    <string name="voice_wakeup_confirm">Prieš naudodami, nustatykite komandą.</string>
+    <string name="omh_warning_dialog_msg">Jūsų R-UIM gali neturėti galimybės pasiekti duomenų paslaugos. Naujovinkite R-UIM į OMH R-UIM.</string>
+    <string name="omh_data_pick_dialog_msg">Jūsų R-UIM gali neturėti galimybės pasiekti duomenų paslaugos. Naujovinkite R-UIM į OMH R-UIM. Vis tiek norite nustatyti R-UIM kaip numatytąją duomenų kortelę?</string>
+    <string name="data_usage_menu_cellular_data_control">Mobiliųjų duomenų valdymas</string>
+    <string name="default_data_switch_msg"> <xliff:g id="current_sim">%1$s</xliff:g> gali laikinai neveikti.</string>
+    <string name="aod_title">Visada rodyti ekrane</string>
+    <string name="aod_summary">Tam tikra sistemos informacija visada bus rodoma sulaikymo režimu</string>
+</resources>

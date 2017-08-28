@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>Folosire oră furnizată de rețea</item>
+    <item>Folosire oră furnizată de GPS</item>
+    <item>Dezactivat</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(neindicat)"</item>
+    <item>Slot SIM 1</item>
+    <item>Slot SIM 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>Full HD 1080p (pentru videoclipuri)</item>
+    <item>HD 720p (pentru jocuri)</item>
+  </string-array>
+</resources>

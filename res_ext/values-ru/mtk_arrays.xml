@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string-array name="auto_time_entries">
+        <item>Синхронизировать время по сети</item>
+        <item>Использовать время GPS</item>
+        <item>Выкл</item>
+    </string-array>
+    <string-array name="sim_slot">
+        <item>"(не указано)"</item>
+        <item>Слот SIM-карты 1</item>
+        <item>Слот SIM-карты 2</item>
+    </string-array>
+    <string-array name="wfd_resolution_entry">
+        <item>1080p FHD (для видео)</item>
+        <item>720p HD (для игр)</item>
+    </string-array>
+</resources>

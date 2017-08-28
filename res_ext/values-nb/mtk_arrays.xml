@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"Bruk nettverkets eget klokkeslett"</item>
+    <item>Bruk GPS-gitt tid</item>
+    <item>"av"</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(ikke spesifisert)"</item>
+    <item>SIM-spor 1</item>
+    <item>SIM-spor 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (for videoer)</item>
+    <item>720p HD (for spill)</item>
+  </string-array>
+</resources>

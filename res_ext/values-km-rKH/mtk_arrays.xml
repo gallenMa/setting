@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>ប្រើបណ្តាញដែលមានប្រាប់ម៉ោង</item>
+    <item>ប្រើ GPS ដែលមានប្រាប់ម៉ោង</item>
+    <item>បិទ</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>(មិនបញ្ជាក់)</item>
+    <item>Sim ប្រឡោះ 1</item>
+    <item>Sim ប្រឡោះ 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (សម្រាប់​វីដេអូ)</item>
+    <item>720p HD (សម្រាប់​ហ្គេម)</item>
+  </string-array>
+</resources>

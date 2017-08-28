@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>Utilizar hora fornecida pela rede</item>
+    <item>Utilizar hora fornecida por GPS</item>
+    <item>Desligar</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(não especificado)"</item>
+    <item>Ranhura SIM 1</item>
+    <item>Ranhura SIM 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (para vídeos)</item>
+    <item>720p HD (para jogos)</item>
+  </string-array>
+</resources>

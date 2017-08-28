@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"Użyj czasu podanego przez sieć"</item>
+    <item>Korzystaj z czasu GPS</item>
+    <item>"wyłączona"</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(nie określono)"</item>
+    <item>Gniazdo karty SIM 1</item>
+    <item>Gniazdo karty SIM 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (do filmów)</item>
+    <item>720p HD (do gier)</item>
+  </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>Utilizar tempo de rede fornecido</item>
+    <item>Usar tempo fornecido do GPS</item>
+    <item>Desligar</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(não especificado)"</item>
+    <item>Slot Sim 1</item>
+    <item>Slot Sim 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (Para vídeos)</item>
+    <item>720p HD (Para jogos)</item>
+  </string-array>
+</resources>

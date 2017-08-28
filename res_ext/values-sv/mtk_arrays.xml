@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"Använd nätverkets tid"</item>
+    <item>Använd GPS-försedd tid</item>
+    <item>"av"</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(ospecificerat)"</item>
+    <item>SIM-kortplats1</item>
+    <item>SIM-kortplats2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (för video)</item>
+    <item>720p HD (för spel)</item>
+  </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"Utiliser l'heure du réseau"</item>
+    <item>"Utiliser l'heure du GPS"</item>
+    <item>Désactivé</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(non spécifié)"</item>
+    <item>Fente SIM 1</item>
+    <item>Fente SIM 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (pour les vidéos)</item>
+    <item>720p HD (pour les jeux)</item>
+  </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"Използване на часа, предоставен от мрежата"</item>
+    <item>Използване на времето от GPS</item>
+    <item>"изключена"</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(неизвестни)"</item>
+    <item>Гнездо 1 за SIM</item>
+    <item>Гнездо 2 за SIM</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (за видео)</item>
+    <item>720p HD (за игри)</item>
+  </string-array>
+</resources>

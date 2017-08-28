@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>Gunakan waktu yang diberikan oleh rangkaian</item>
+    <item>Gunakan waktu yang diberikan oleh GPS</item>
+    <item>Mati</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(tidak ditentukan)"</item>
+    <item>Slot Sim 1</item>
+    <item>Slot Sim 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (Untuk video)</item>
+    <item>720p HD (Untuk permainan)</item>
+  </string-array>
+</resources>

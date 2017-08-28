@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"Použiť čas zo siete"</item>
+    <item>Použite čas poskytnutý GPS</item>
+    <item>"vypnuté"</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(neurčené)"</item>
+    <item>Zásuvka SIM 1</item>
+    <item>Zásuvka SIM 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080 p FHD (pre videá)</item>
+    <item>720 p HD (pre hry)</item>
+  </string-array>
+</resources>

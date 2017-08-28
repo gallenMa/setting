@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>네트워크 제공 시간 사용</item>
+    <item>GPS 제공 시간 사용</item>
+    <item>끄기</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(지정되지 않음)"</item>
+    <item>Sim 슬롯 1</item>
+    <item>Sim 슬롯 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD(동영상용)</item>
+    <item>720p HD(게임용)</item>
+  </string-array>
+</resources>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>השתמש בזמן הרשת</item>
+    <item>השתמש בזמן ה-GPS</item>
+    <item>כבוי</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(לא צוין)"</item>
+    <item>חריץ SIM 1</item>
+    <item>חריץ SIM 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (לווידאו)</item>
+    <item>720p HD (למשחקים)</item>
+  </string-array>
+</resources>

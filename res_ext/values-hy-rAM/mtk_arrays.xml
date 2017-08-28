@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+  <string-array name="auto_time_entries">
+    <item>"Օգտագործել ցանցի կողմից տրամադրվող ժամանակը"</item>
+    <item>Օգտագործել GPS-ի կողմից տրամադրված ժամանակը</item>
+    <item>"անջատված է"</item>
+  </string-array>
+  <string-array name="sim_slot">
+    <item>"(չտարբերակված)"</item>
+    <item>Sim փորակ 1</item>
+    <item>Sim փորակ 2</item>
+  </string-array>
+  <string-array name="wfd_resolution_entry">
+    <item>1080p FHD (Տեսանյութերի համար)</item>
+    <item>720p HD (Խաղերի համար)</item>
+  </string-array>
+</resources>
